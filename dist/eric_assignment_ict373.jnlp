@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="eric_assignment_ict373.jar" size="2412" download="eager" />
+    <jar href="eric_assignment_ict373.jar" size="54652" download="eager" />
   </resources>
   <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="eric_assignment_ict373" >
     <param name="requiredFXVersion" value="8.0+"/>
